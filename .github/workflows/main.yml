@@ -1,4 +1,4 @@
-name: fuck
+name: aaa
 
 on:
   workflow_dispatch:
