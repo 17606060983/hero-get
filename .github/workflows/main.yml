@@ -1,9 +1,9 @@
-name: going
+name: fuck
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "21 21 * * 4" # 修改你的定时配置
+    - cron: "29 21 * * 5" # 修改你的定时配置
     
 jobs:
   setup:
